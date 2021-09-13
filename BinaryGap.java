@@ -101,11 +101,4 @@ public class BinaryGap {
         return result;
     }
 
-
-    public static void main(String[] args){
-
-        BinaryGap solution2 = new BinaryGap();
-        System.out.println(solution2.solution(1041));
-
-    }
 }

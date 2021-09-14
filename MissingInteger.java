@@ -23,6 +23,8 @@ Write an efficient algorithm for the following assumptions:
 
 * */
 
+// it's not clear enough...
+
 public class MissingInteger {
 
     private boolean arrayContainOnlyNumberOne(int[] A) { return ((A.length == 1) && (A[0] == 1));}
